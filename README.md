@@ -21,7 +21,7 @@
 **Name**: Latiful Hassan Zihan  
 **Age**: 18 years old  
 **Location**: Sherpur, Bangladesh 🇧🇩  
-**Company**: XARINA (Founder)  
+**Company**: 𝐗𝐍𝐎𝐕𝐄𝐑𝐀 (Founder)  
 **Role**: Full-Stack Developer & Bot Architect
 
 ### What I Do
@@ -174,7 +174,7 @@
 
 ---
 
-## 🏢 XARINA
+## 🏢 𝐗𝐍𝐎𝐕𝐄𝐑𝐀
 
 <div align="center">
 
