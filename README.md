@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=LATIFUL%20HASSAN%20ZIHAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20•%20Bot%20Architect &descAlignY=75&descSize=16" width="100%" />
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hello+Everyone!+%F0%9F%91%8B;Full+Stack+Developer!+%F0%9F%9A%80;Always+learning%2C+always+coding!+%F0%9F%92%BB" />
 
