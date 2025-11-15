@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Latiful Hassan Zihan - Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-green: #00ff41;
+            --secondary-green: #00e64d;
+            --dark-green: #008f26;
+            --bg-black: #0a0e0f;
+            --bg-dark: #0d1117;
+            --text-dim: #4dff88;
+            --glow-color: rgba(0, 255, 65, 0.5);
+        }
+
+        body {
+            font-family: 'Courier New', 'Consolas', monospace;
+            background-color: var(--bg-black);
+            color: var(--primary-green);
+            overflow-x: hidden;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* CRT Effect */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.15),
+                rgba(0, 0, 0, 0.15) 1px,
+                transparent 1px,
+                transparent 2px
+            );
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        .container {
+            max-width: 100%;
+            padding: 20px;
+            position: relative;
+        }
+
+        /* Terminal Window */
+        .terminal-window {
+            background: var(--bg-dark);
+            border: 2px solid var(--primary-green);
+            border-radius: 8px;
+            box-shadow: 0 0 20px var(--glow-color), inset 0 0 30px rgba(0, 255, 65, 0.1);
+            margin-bottom: 20px;
+            overflow: hidden;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .terminal-header {
+            background: linear-gradient(180deg, #1a1f1f 0%, #0d1117 100%);
+            padding: 10px 15px;
+            border-bottom: 1px solid var(--dark-green);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .terminal-buttons {
+            display: flex;
+            gap: 6px;
+        }
+
+        .terminal-button {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 1px solid var(--primary-green);
+        }
+
+        .terminal-button.close { background: #ff5f56; box-shadow: 0 0 5px #ff5f56; }
+        .terminal-button.minimize { background: #ffbd2e; box-shadow: 0 0 5px #ffbd2e; }
+        .terminal-button.maximize { background: #27c93f; box-shadow: 0 0 5px #27c93f; }
+
+        .terminal-title {
+            flex: 1;
+            text-align: center;
+            font-size: 12px;
+            color: var(--text-dim);
+        }
+
+        .terminal-body {
+            padding: 20px;
+        }
+
+        /* Header Section */
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 3px solid var(--primary-green);
+            box-shadow: 0 0 20px var(--glow-color);
+            margin-bottom: 15px;
+            object-fit: cover;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                box-shadow: 0 0 20px var(--glow-color);
+            }
+            50% {
+                box-shadow: 0 0 30px var(--primary-green);
+            }
+        }
+
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            color: var(--primary-green);
+            text-shadow: 0 0 10px var(--glow-color);
+            margin-bottom: 8px;
+        }
+
+        .title {
+            font-size: 16px;
+            color: var(--text-dim);
+            margin-bottom: 15px;
+        }
+
+        .typing-effect {
+            color: var(--secondary-green);
+            font-size: 14px;
+            font-style: italic;
+            min-height: 20px;
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 8px;
+            height: 16px;
+            background: var(--primary-green);
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            0%, 49% { opacity: 1; }
+            50%, 100% { opacity: 0; }
+        }
+
+        /* Info Sections */
+        .info-section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            color: var(--primary-green);
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 12px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid var(--dark-green);
+            text-shadow: 0 0 8px var(--glow-color);
+        }
+
+        .section-title::before {
+            content: "$ ";
+            color: var(--secondary-green);
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 10px;
+            font-size: 14px;
+        }
+
+        .info-item {
+            display: flex;
+            gap: 8px;
+            padding: 8px;
+            background: rgba(0, 255, 65, 0.05);
+            border-left: 2px solid var(--primary-green);
+            transition: all 0.3s ease;
+            align-items: center;
+        }
+
+        .info-item:hover {
+            background: rgba(0, 255, 65, 0.1);
+            transform: translateX(5px);
+        }
+
+        .info-item i {
+            width: 20px;
+            text-align: center;
+        }
+
+        .info-label {
+            color: var(--secondary-green);
+            min-width: 100px;
+        }
+
+        .info-value {
+            color: var(--primary-green);
+            flex: 1;
+        }
+
+        /* Skills */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+        }
+
+        .skill-item {
+            padding: 12px;
+            background: rgba(0, 255, 65, 0.05);
+            border: 1px solid var(--dark-green);
+            border-radius: 4px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .skill-item:hover {
+            background: rgba(0, 255, 65, 0.15);
+            border-color: var(--primary-green);
+            box-shadow: 0 0 15px var(--glow-color);
+            transform: scale(1.05);
+        }
+
+        .skill-icon {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+
+        /* Brand Colors */
+        .python-color { color: #3776AB; }
+        .php-color { color: #777BB4; }
+        .html-color { color: #E34F26; }
+        .css-color { color: #1572B6; }
+        .js-color { color: #F7DF1E; }
+        .c-color { color: #A8B9CC; }
+        .telegram-color { color: #26A5E4; }
+        .github-color { color: #fff; }
+        .coffee-color { color: #FFDD00; }
+        .user-color { color: var(--primary-green); }
+        .flag-color { color: #006A4E; }
+        .location-color { color: #ff4444; }
+        .age-color { color: #FFD700; }
+        .bolt-color { color: #FFAA00; }
+        .terminal-color { color: var(--primary-green); }
+        .code-color { color: #00D9FF; }
+        .server-color { color: #FFA500; }
+        .globe-color { color: #4285F4; }
+        .robot-color { color: #00D4AA; }
+        .palette-color { color: #FF6B9D; }
+
+        .skill-name {
+            color: var(--primary-green);
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .skill-level {
+            color: var(--text-dim);
+            font-size: 12px;
+        }
+
+        /* Specialization */
+        .specialization-list {
+            list-style: none;
+        }
+
+        .specialization-item {
+            padding: 10px;
+            margin-bottom: 8px;
+            background: rgba(0, 255, 65, 0.05);
+            border-left: 3px solid var(--primary-green);
+            transition: all 0.3s ease;
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+
+        .specialization-item:hover {
+            background: rgba(0, 255, 65, 0.1);
+            transform: translateX(5px);
+        }
+
+        .spec-icon {
+            font-size: 20px;
+            margin-top: 2px;
+            min-width: 24px;
+        }
+
+        .spec-content {
+            flex: 1;
+        }
+
+        .spec-title {
+            color: var(--primary-green);
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+
+        .spec-desc {
+            color: var(--text-dim);
+            font-size: 12px;
+            font-style: italic;
+        }
+
+        /* Contact Links */
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 12px;
+        }
+
+        .contact-link {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px;
+            background: rgba(0, 255, 65, 0.05);
+            border: 1px solid var(--dark-green);
+            border-radius: 4px;
+            text-decoration: none;
+            color: var(--primary-green);
+            transition: all 0.3s ease;
+        }
+
+        .contact-link:hover {
+            background: rgba(0, 255, 65, 0.15);
+            border-color: var(--primary-green);
+            box-shadow: 0 0 15px var(--glow-color);
+            transform: translateY(-3px);
+        }
+
+        .contact-icon {
+            font-size: 24px;
+            min-width: 30px;
+            text-align: center;
+        }
+
+        .contact-text {
+            flex: 1;
+        }
+
+        .contact-label {
+            font-size: 10px;
+            color: var(--text-dim);
+            display: block;
+        }
+
+        .contact-value {
+            font-size: 14px;
+            color: var(--primary-green);
+        }
+
+        /* Organization */
+        .org-box {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0, 255, 65, 0.05);
+            border: 2px solid var(--primary-green);
+            border-radius: 8px;
+            box-shadow: 0 0 20px var(--glow-color);
+            margin-bottom: 20px;
+        }
+
+        .org-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        .org-name {
+            font-size: 28px;
+            font-weight: bold;
+            color: var(--primary-green);
+            text-shadow: 0 0 15px var(--glow-color);
+            margin-bottom: 10px;
+            letter-spacing: 3px;
+        }
+
+        .org-tagline {
+            color: var(--text-dim);
+            font-size: 12px;
+            font-style: italic;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 30px;
+            border-top: 1px solid var(--dark-green);
+        }
+
+        .quote {
+            color: var(--text-dim);
+            font-style: italic;
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+
+        .copyright {
+            color: var(--dark-green);
+            font-size: 12px;
+        }
+
+        /* Command Line Prompt */
+        .command-prompt {
+            background: rgba(0, 255, 65, 0.05);
+            padding: 15px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            color: var(--primary-green);
+            margin-top: 20px;
+        }
+
+        .prompt-line {
+            margin-bottom: 5px;
+        }
+
+        .prompt-symbol {
+            color: var(--secondary-green);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            .name {
+                font-size: 20px;
+            }
+
+            .profile-img {
+                width: 100px;
+                height: 100px;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .skills-grid {
+                grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            }
+
+            .contact-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Loading Animation */
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: var(--primary-green);
+        }
+
+        .loading-dots::after {
+            content: '...';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+
+        /* Scroll indicator */
+        .scroll-indicator {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--primary-green);
+            font-size: 24px;
+            animation: bounce 2s infinite;
+            z-index: 100;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
+            40% { transform: translateX(-50%) translateY(-10px); }
+            60% { transform: translateX(-50%) translateY(-5px); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Terminal Window -->
+        <div class="terminal-window">
+            <div class="terminal-header">
+                <div class="terminal-buttons">
+                    <div class="terminal-button close"></div>
+                    <div class="terminal-button minimize"></div>
+                    <div class="terminal-button maximize"></div>
+                </div>
+                <div class="terminal-title">portfolio@zihan:~$</div>
+            </div>
+            <div class="terminal-body">
+                <!-- Header -->
+                <div class="header">
+                    <img src="https://avatars.githubusercontent.com/u/186947737?v=4" alt="Latiful Hassan Zihan" class="profile-img" id="profileImg">
+                    <div class="name">╔═══════════════════════╗<br>║ LATIFUL HASSAN ZIHAN ║<br>╚═══════════════════════╝</div>
+                    <div class="title"><i class="fas fa-bolt bolt-color"></i> Full-Stack Developer <i class="fas fa-bolt bolt-color"></i></div>
+                    <div class="typing-effect" id="typingText">
+                        <span class="cursor"></span>
+                    </div>
+                </div>
+
+                <!-- Organization -->
+                <div class="org-box">
+                    <div class="org-icon palette-color">
+                        <i class="fas fa-palette"></i>
+                    </div>
+                    <div class="org-name">XNOVERA</div>
+                    <div class="org-tagline">Innovation · Creativity · Technology</div>
+                </div>
+
+                <!-- Personal Info -->
+                <div class="info-section">
+                    <div class="section-title">personal_info</div>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <i class="fas fa-user user-color"></i>
+                            <span class="info-label">Name:</span>
+                            <span class="info-value">Latiful Hassan Zihan</span>
+                        </div>
+                        <div class="info-item">
+                            <i class="fas fa-birthday-cake age-color"></i>
+                            <span class="info-label">Age:</span>
+                            <span class="info-value">18</span>
+                        </div>
+                        <div class="info-item">
+                            <i class="fas fa-flag flag-color"></i>
+                            <span class="info-label">Nationality:</span>
+                            <span class="info-value">Bangladeshi 🇧🇩</span>
+                        </div>
+                        <div class="info-item">
+                            <i class="fas fa-flag flag-color"></i>
+                            <span class="info-label">Supporter:</span>
+                            <span class="info-value">🇵🇸 🇹🇷 🇧🇩</span>
+                        </div>
+                        <div class="info-item">
+                            <i class="fas fa-map-marker-alt location-color"></i>
+                            <span class="info-label">Location:</span>
+                            <span class="info-value">Sherpur, BD</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Technical Skills -->
+                <div class="info-section">
+                    <div class="section-title">technical_arsenal</div>
+                    <div class="skills-grid">
+                        <div class="skill-item">
+                            <div class="skill-icon python-color">
+                                <i class="fab fa-python"></i>
+                            </div>
+                            <div class="skill-name">Python</div>
+                            <div class="skill-level">Expert</div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="skill-icon php-color">
+                                <i class="fab fa-php"></i>
+                            </div>
+                            <div class="skill-name">PHP</div>
+                            <div class="skill-level">Advanced</div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="skill-icon html-color">
+                                <i class="fab fa-html5"></i>
+                            </div>
+                            <div class="skill-name">HTML5</div>
+                            <div class="skill-level">Advanced</div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="skill-icon css-color">
+                                <i class="fab fa-css3-alt"></i>
+                            </div>
+                            <div class="skill-name">CSS3</div>
+                            <div class="skill-level">Advanced</div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="skill-icon js-color">
+                                <i class="fab fa-js-square"></i>
+                            </div>
+                            <div class="skill-name">JavaScript</div>
+                            <div class="skill-level">Advanced</div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="skill-icon c-color">
+                                <i class="fas fa-code"></i>
+                            </div>
+                            <div class="skill-name">C Programming</div>
+                            <div class="skill-level">Intermediate</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Specializations -->
+                <div class="info-section">
+                    <div class="section-title">specialization_domains</div>
+                    <ul class="specialization-list">
+                        <li class="specialization-item">
+                            <div class="spec-icon robot-color">
+ <span class="contact-icon telegram-color">
+                                <i class="fab fa-telegram"></i>
+                           
+                            </div>
+                            <div class="spec-conte
