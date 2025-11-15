@@ -170,8 +170,6 @@
 
 ---
 
-## 🏢 𝐗𝐍𝐎𝐕𝐄𝐑𝐀
-
 <div align="center">
 
 ### ✨ *Innovation • Technology • Excellence*
