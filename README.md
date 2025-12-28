@@ -1,163 +1,299 @@
-# 💫 About Me
-
-<div align="center">
-  
-🎓 **I'm currently a passionate student** diving deep into the world of technology and software development. My journey is fueled by curiosity and a drive to create impactful solutions through code.
-
-🤝 **I'm looking for help with** website development and Android app development. Whether it's collaborating on projects, getting feedback, or learning new frameworks, I'm always excited to connect with fellow developers!
-
-✨ *Turning ideas into reality, one line of code at a time*
-</div>
-
----
-
-## 🌐 Social Connections
-
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/alwayszihan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alwayszihan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alwayszihan@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/MEZIHAN)
-[![Telegram Channel](https://img.shields.io/badge/Channel-%232CA5E0.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ALWAYSZIHAN)
+<!-- Header with animated title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=70&lines=✨+Latiful+Hassan+Zihan+✨;🚀+Full+Stack+Developer;📱+Mobile+App+Developer;💡+Passionate+Student" alt="Typing SVG" />
+
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=header&animation=fadeIn" />
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-### 🏗️ **Programming Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 **Web Development**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📱 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🎨 **Design & Tools**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## 👨‍💻 About Me
 
 <div align="center">
 
-### 📈 Activity Overview
-![](https://github-readme-stats.vercel.app/api?username=latifulhassanzihan&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+<table>
+<tr>
+<td width="70%">
 
-### 🔥 Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=latifulhassanzihan&theme=cobalt&hide_border=false)
+🎯 **Aspiring Developer** with a passion for creating innovative digital solutions  
+💼 Currently pursuing Computer Science while building real-world projects  
+🌟 Focused on **Web & Mobile Development** with modern technologies  
+🚀 Constantly learning and exploring new frameworks and tools  
+🎨 Love creating beautiful, functional, and user-friendly interfaces  
 
-### 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=latifulhassanzihan&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)
+</td>
+<td width="30%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎮 Tech Arsenal
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=latifulhassanzihan&theme=cobalt&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+### 🏆 **Core Stack**
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<br>React
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+<br>Node.js
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+<br>Flutter
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<br>Python
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<br>Java
+</td>
+</tr>
+</table>
+
+### ⚡ **Fast & Furious**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛡️ **DevOps & Cloud**
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+<br>Docker
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+<br>AWS
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
+<br>Firebase
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<br>Git
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
+<br>Nginx
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📜 Featured Projects
+## 📈 GitHub Analytics
 
 <div align="center">
 
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=latifulhassanzihan&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+<!-- Stats Grid -->
+<table>
+<tr>
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=latifulhassanzihan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)
+
+</td>
+<td>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=latifulhassanzihan&theme=radical&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+
+</td>
+</tr>
+</table>
+
+<!-- Language Stats -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=latifulhassanzihan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&langs_count=8)
+
+<!-- Activity Graph -->
+[![Zihan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=latifulhassanzihan&theme=github-dark&area=true&hide_border=true&point=00FF88&line=00FF88&area_color=00FF88&title_color=ffffff&bg_color=0d1117)](https://github.com/latifulhassanzihan)
 
 </div>
 
 ---
 
-## 💭 Developer Wisdom
+## 🏆 Achievements
 
 <div align="center">
 
-### ✨ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-> *"The best way to predict the future is to invent it."* - Alan Kay
+[![trophy](https://github-profile-trophy.vercel.app/?username=latifulhassanzihan&theme=onedark&row=2&column=4&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🔗 Connect With Me
 
 <div align="center">
 
-💬 **Feel free to reach out for collaborations or just a friendly chat!**
-
-📧 **Email:** alwayszihan@gmail.com  
-📱 **Telegram:** [@MEZIHAN](https://t.me/MEZIHAN)  
-📢 **Channel:** [@ALWAYSZIHAN](https://t.me/ALWAYSZIHAN)  
-🌍 **Portfolio:** *Coming Soon*
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *Code • Create • Innovate*
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=latifulhassanzihan.latifulhassanzihan)
-[![GitHub followers](https://img.shields.io/github/followers/latifulhassanzihan.svg?style=social&label=Follow)](https://github.com/latifulhassanzihan)
-
-⭐ *Star my repositories if you find something interesting!*
-
-</div>
-
----
-
-<details>
-<summary>📊 Additional Stats</summary>
+<!-- Social Badges with hover effects -->
+<table>
+<tr>
+<td align="center">
+<a href="https://t.me/MEZIHAN" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/telegram-app.png" width="60" />
 <br>
+<strong>Message Me</strong>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/ALWAYSZIHAN" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/telegram.png" width="60" />
+<br>
+<strong>My Channel</strong>
+</a>
+</td>
+<td align="center">
+<a href="mailto:alwayszihan@gmail.com">
+<img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" />
+<br>
+<strong>Email</strong>
+</a>
+</td>
+<td align="center">
+<a href="https://facebook.com/alwayszihan" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/facebook.png" width="60" />
+<br>
+<strong>Facebook</strong>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/alwayszihan" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="60" />
+<br>
+<strong>Instagram</strong>
+</a>
+</td>
+</tr>
+</table>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=latifulhassanzihan&theme=cobalt)](https://github.com/latifulhassanzihan/github-readme-activity-graph)
+<!-- Social Shields -->
+[![Telegram](https://img.shields.io/badge/Telegram-@MEZIHAN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MEZIHAN)
+[![Telegram Channel](https://img.shields.io/badge/Channel-@ALWAYSZIHAN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ALWAYSZIHAN)
+[![Email](https://img.shields.io/badge/Email-alwayszihan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwayszihan@gmail.com)
 
-</details>
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+🌐 Web Development    ████████████░░░░░░░░░░   50%
+📱 Mobile Apps        ██████████░░░░░░░░░░░    45%
+🗄️  Backend           ████████░░░░░░░░░░░░░    40%
+🎨  UI/UX Design      ██████░░░░░░░░░░░░░░░░   30%
+📚  Learning          ██████████████░░░░░░░   65%
+⚡  DevOps            █████░░░░░░░░░░░░░░░░░   25%
+```
+
+---
+
+🎯 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" />
+<br>
+<strong>React Native</strong>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" />
+<br>
+<strong>Next.js 14</strong>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" />
+<br>
+<strong>Microservices</strong>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80" />
+<br>
+<strong>Cloud Native</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+✨ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=latifulhassanzihan&repo=project1&theme=radical" />
+</a>
+</td>
+<td align="center" width="300">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=latifulhassanzihan&repo=project2&theme=radical" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+📜 Developer Mantra
+
+<div align="center">
+
+<blockquote style="border-left: 4px solid #00FF88; padding-left: 15px; font-style: italic;">
+"The beautiful thing about learning is that nobody can take it away from you."
+<br>
+<strong>- B.B. King</strong>
+</blockquote>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Visitor counter -->
+
+https://komarev.com/ghpvc/?username=latifulhassanzihan&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS
+
+<!-- Footer wave -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer&animation=fadeIn" />
+
+<!-- End quote -->
+
+<h3>💻 Code with Passion | 🚀 Build with Purpose | 🌟 Dream Big</h3>
+
+https://img.shields.io/github/stars/latifulhassanzihan?style=social
+https://img.shields.io/github/followers/latifulhassanzihan?style=social
+
+</div>
