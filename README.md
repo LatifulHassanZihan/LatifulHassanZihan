@@ -1,131 +1,166 @@
-<div align="center">
-
-# 👋 Hi, I'm Latiful Hassan Zihan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=latifulhassanzihan&icon=0&color=6&labelColor=13&titleColor=15&bgColor=0&iconColor=20&linkColor=20)](https://visitcount.itsvg.in)
-
-**🔭 Currently working on** Website & Android App Development  
-**🤝 Open to** Collaborations & Freelance Projects  
-**📫 How to reach me** alwayszihan@gmail.com  
-**⚡ Fun fact** Building Telegram bots & automation tools!
-
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-<div align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alwayszihan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alwayszihan) 
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ALWAYSZIHAN)
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PAIDFREETOOLS)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwayszihan@gmail.com)
-</div>
-
-**💬 Message me on Telegram for collaborations/projects!** [memory:6][memory:9]
-
-<br/>
-
-## 🛠️ Tech Stack
-
-### 🌐 **Frontend**
-<div align="center">
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</div>
-
-### 🖥️ **Backend**
-<div align="center">
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-</div>
-
-### 📱 **Mobile**
-<div align="center">
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-</div>
-
-### ☁️ **Cloud & DevOps**
-<div align="center">
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-</div>
-
-### 🗄️ **Databases**
-<div align="center">
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-</div>
-
-<br/>
-
-## 🔥 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=latifulhassanzihan&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifulhassanzihan&theme=cobalt&hide_border=false&layout=compact&langs_count=8" width="40%" align="right" />
-
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=latifulhassanzihan&theme=cobalt&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-</div>
-
-### 🔥 Streak Stats
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=latifulhassanzihan&theme=cobalt&hide_border=false" alt="streak" />
-</div>
-
-<br/>
-
-## ✨ Random Dev Quote
-<div align="center">
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
-<br/>
-
-## 📈 Top Contributed Repositories
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=latifulhassanzihan&limit=5&theme=cobalt&combine_all_yearly_contributions=true" />
-</div>
-
-<br/>
+# 💫 About Me
 
 <div align="center">
   
-**🛠️ Tools and services I use**
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+🎓 **I'm currently a passionate student** diving deep into the world of technology and software development. My journey is fueled by curiosity and a drive to create impactful solutions through code.
 
-**📊 Profile Visitors Counter**
-![Visitor Count](https://profile-counter.glitch.me/latifulhassanzihan/count.svg)
+🤝 **I'm looking for help with** website development and Android app development. Whether it's collaborating on projects, getting feedback, or learning new frameworks, I'm always excited to connect with fellow developers!
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=latifulhassanzihan&color=006bed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+✨ *Turning ideas into reality, one line of code at a time*
 </div>
 
 ---
+
+## 🌐 Social Connections
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Feel+free+to+contact+me!&font=Fira%20Code&pause=1000&center=true&width=440&height=60&duration=4000&vCenter=true&smooth=true" />
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/alwayszihan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alwayszihan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alwayszihan@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/MEZIHAN)
+[![Telegram Channel](https://img.shields.io/badge/Channel-%232CA5E0.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ALWAYSOZIHAN)
+
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🏗️ **Programming Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 **Web Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📱 **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🎨 **Design & Tools**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Activity Overview
+![](https://github-readme-stats.vercel.app/api?username=latifulhassanzihan&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+
+### 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=latifulhassanzihan&theme=cobalt&hide_border=false)
+
+### 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=latifulhassanzihan&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=latifulhassanzihan&theme=cobalt&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 📜 Featured Projects
+
+<div align="center">
+
+### 🔝 Top Contributions
+![](https://github-contributor-stats.vercel.app/api?username=latifulhassanzihan&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+### ✨ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+> *"The best way to predict the future is to invent it."* - Alan Kay
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+💬 **Feel free to reach out for collaborations or just a friendly chat!**
+
+📧 **Email:** alwayszihan@gmail.com  
+📱 **Telegram:** [@MEZIHAN](https://t.me/MEZIHAN)  
+📢 **Channel:** [@ALWAYSOZIHAN](https://t.me/ALWAYSOZIHAN)  
+🌍 **Portfolio:** *Coming Soon*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *Code • Create • Innovate*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=latifulhassanzihan.latifulhassanzihan)
+[![GitHub followers](https://img.shields.io/github/followers/latifulhassanzihan.svg?style=social&label=Follow)](https://github.com/latifulhassanzihan)
+
+⭐ *Star my repositories if you find something interesting!*
+
+</div>
+
+---
+
+<details>
+<summary>📊 Additional Stats</summary>
+<br>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=latifulhassanzihan&theme=cobalt)](https://github.com/latifulhassanzihan/github-readme-activity-graph)
+
+</details>
