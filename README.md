@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alwayszihan)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alwayszihan@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/MEZIHAN)
-[![Telegram Channel](https://img.shields.io/badge/Channel-%232CA5E0.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ALWAYSOZIHAN)
+[![Telegram Channel](https://img.shields.io/badge/Channel-%232CA5E0.svg?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ALWAYSZIHAN)
 
 </div>
 
@@ -134,11 +134,8 @@
 
 📧 **Email:** alwayszihan@gmail.com  
 📱 **Telegram:** [@MEZIHAN](https://t.me/MEZIHAN)  
-📢 **Channel:** [@ALWAYSOZIHAN](https://t.me/ALWAYSOZIHAN)  
+📢 **Channel:** [@ALWAYSZIHAN](https://t.me/ALWAYSZIHAN)  
 🌍 **Portfolio:** *Coming Soon*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourprofile)
 
 </div>
 
